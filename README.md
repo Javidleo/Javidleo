@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javidleo&label=Profile%20views&color=0e75b6&style=flat" alt="javidleo" /> </p>
 
-- 🔭 I’m currently working on **Automation Testing**
+- 🔭 I’m currently working on **Cloud Services, AI Services**
 
-- 🌱 I’m currently learning **Penetration Testing**
+- 🌱 I’m currently learning **Design Patterns and MemoryManagement**
 
-- 👯 I’m looking to collaborate on **.NET Projects with Latest Tech**
+- 👯 I’m looking to collaborate on **Any Fun .NET Projects**
 
-- 💬 Ask me about **.NET, xUnit**
+- 💬 Ask me about **.NET, xUnit, Docker, Docker-Compose**
 
 - 📫 How to reach me **javidleo.ef@gmail.com**
 
